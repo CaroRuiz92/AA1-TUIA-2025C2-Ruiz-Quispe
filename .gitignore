@@ -1,9 +1,6 @@
-# Archivos de Jupyter Notebook
-*.ipynb_checkpoints/
-TP-Regresion-AA1-2025C1.ipynb
+# Ignorar todos los archivos y carpetas
+*
 
-# Archivos de Word
-*.docx
-
-# Archivos de datos
-uber_fares.csv
+# Pero no ignores estos archivos específicos
+!/TP-Regresion-AA1-2025C1.ipynb
+!/uber_fares.csv
