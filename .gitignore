@@ -1,0 +1,9 @@
+# Archivos de Jupyter Notebook
+.ipynb_checkpoints/
+TP-Regresion-AA1-2025C1.ipynb
+
+# Archivos de Word
+*.docx
+
+# Archivos de datos
+uber_fares.csv
