@@ -1,6 +1,0 @@
-# Ignorar todos los archivos y carpetas
-*
-
-# Pero no ignores estos archivos específicos
-!/TP-Regresion-AA1-2025C1.ipynb
-!/uber_fares.csv
